@@ -1,7 +1,7 @@
 ## Assignments Folder
 
-|      #      | Folder Link  | Assignment Description                          |
-| :---------: | ------------ | ----------------------------------------------- |
+|      #      | Folder Link  |
+| :---------: | ------------ |
 | [01](https://github.com/venetiaqueen/Assignments-2/tree/master/assignments/P01)| [Employees Assignment](https://github.com/venetiaqueen/Assignments-2/tree/master/assignments/P01)                                   |
 | [03](https://github.com/venetiaqueen/Assignments-2/tree/master/assignments/homework_03) | [Animals ListStack  ](https://github.com/venetiaqueen/Assignments-2/tree/master/assignments/homework_03) |
 | [04](https://github.com/venetiaqueen/Assignments-2/tree/master/assignments/homework_04) | [Animals ListQueue](https://github.com/venetiaqueen/Assignments-2/tree/master/assignments/homework_04)     |
