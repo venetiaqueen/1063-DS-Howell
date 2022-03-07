@@ -2,10 +2,10 @@
 
 |      #      | Folder Link  | Assignment Description                          |
 | :---------: | ------------ | ----------------------------------------------- |
-| [03](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/A03) | [A03](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/A03)        | [Banner Page](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/A03)                                   |
-| [04](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/AO4) | [A04](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/AO4) | [Commenting C++ Code  ](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/AO4) |
-| [05](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/A05) | [A05](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/A05) | [Assignment 5 - Run Times](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/A05)     |
-| [06](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/P01) | [P01](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/P01) | [Resizing the Stack ](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/P01)              |
-| [07](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/PO2) | [P02](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/PO2) | [Processing in Linear Time](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/PO2)           |
-| [08](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/P04) | [P04](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/P04) | [Processing in Trie Tree Time ](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/P04)                              |
+| [01](https://github.com/venetiaqueen/Assignments-2/tree/master/assignments/P01)| [Employees Assignment](https://github.com/venetiaqueen/Assignments-2/tree/master/assignments/P01)                                   |
+| [03](https://github.com/venetiaqueen/Assignments-2/tree/master/assignments/homework_03) | [Animals ListStack  ](https://github.com/venetiaqueen/Assignments-2/tree/master/assignments/homework_03) |
+| [04](https://github.com/venetiaqueen/Assignments-2/tree/master/assignments/homework_04) | [Animals ListQueue](https://github.com/venetiaqueen/Assignments-2/tree/master/assignments/homework_04)     |
+| [05](https://github.com/venetiaqueen/Assignments-2/tree/master/assignments/program_4) | [Cipher ](https://github.com/venetiaqueen/Assignments-2/tree/master/assignments/program_4)              |
+| [06](https://github.com/venetiaqueen/Assignments-2/tree/master/assignments/P05) | [BlackJack Game](https://github.com/venetiaqueen/Assignments-2/tree/master/assignments/P05)           |
+| [07](https://github.com/venetiaqueen/Assignments-2/tree/master/assignments/program_3) | [Abrituary Precision Math](https://github.com/venetiaqueen/Assignments-2/tree/master/assignments/program_3)                           |
 
